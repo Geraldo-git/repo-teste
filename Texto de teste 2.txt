@@ -1,0 +1,3 @@
+Pagamento em dinheiro, entrar em contato no fechamento para combinar o troco. Obrigado !
+
+git ckeckout -b novo texto
